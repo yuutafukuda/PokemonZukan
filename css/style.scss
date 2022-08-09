@@ -2,7 +2,7 @@ $bg-color: #6ab7f5;
 $main-font-color: #3a444d;
 $secondary-font-color: #aaa;
 
-//リセット
+//reset
 * {
     margin: 0;
     padding: 0;
@@ -51,7 +51,7 @@ body {
     font-size: clamp(8px, 5vw, 25px);
 }
 
-.pokemon-name {
+#pokemon__name {
     color: $main-font-color;
 }
 
