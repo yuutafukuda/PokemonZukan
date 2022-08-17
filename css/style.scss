@@ -53,6 +53,7 @@ body {
 
 #pokemon__name {
     color: $main-font-color;
+    text-transform: capitalize;
 }
 
 .input-search {

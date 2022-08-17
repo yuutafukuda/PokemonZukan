@@ -1,4 +1,4 @@
-// I've learned how to PokeAPI at「転生しないブログ」
+// I've learned how to use PokeAPI at「転生しないブログ」
 // https://tensei-shinai.com/2022/05/02/poke-api/
 
 const pokemonImg = document.querySelector('#pokemon__img');
